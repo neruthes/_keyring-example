@@ -7,7 +7,7 @@
     },
     "agent_keys": {
         "list": [
-            { "index": 2, "fingerprint": "F934822F78ACC9F12D1683A3DA78A4C1CD611E60", "validity": "valid", "root": "8AFD47D6A3CDA8CE35884C5104B61F26232DC9C9"}
+            { "index": 1, "fingerprint": "F934822F78ACC9F12D1683A3DA78A4C1CD611E60", "validity": "valid", "root": "8AFD47D6A3CDA8CE35884C5104B61F26232DC9C9"}
         ]
     }
 }
