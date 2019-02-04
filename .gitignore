@@ -1,0 +1,5 @@
+.DS_Store
+*.sh
+*.js
+agent_keys/delegation_declarations/*.txt
+README.md

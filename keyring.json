@@ -1,0 +1,14 @@
+{
+    "uri": "https://joyneop.xyz/_keyring/",
+    "root_keys": {
+        "list": [
+            { "index": 1, "fingerprint": "80690EBD599119050EF943AF037F2FB3D5E2F043", "validity": "current" },
+            { "index": 0, "fingerprint": "8F45D72357EEB6C556662C8D68A0B4B6EEF9762A", "validity": "deprecated" }
+        ]
+    },
+    "agent_keys": {
+        "list": [
+            { "index": 2, "fingerprint": "68061AF0C1813884EF11B50A2AFDC3A9095ED892", "validity": "valid", "root": "80690EBD599119050EF943AF037F2FB3D5E2F043"}
+        ]
+    }
+}
